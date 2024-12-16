@@ -1,5 +1,5 @@
 keep it fun!!
-learning
+<br> CURRENTLY LEARNING RUBY AND DATABASE
 
 <!---
 bagir-kaff/bagir-kaff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
